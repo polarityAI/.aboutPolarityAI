@@ -1,0 +1,2 @@
+# .aboutPolarityAI
+Much to come!
